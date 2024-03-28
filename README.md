@@ -10,7 +10,7 @@ This is a WIP placeholder page for the [CoMo Solution Website](https://como-solu
     npm install
     ```
 
-1. First, run the development server:
+1. Run the development server:
 
     ```bash
     npm run dev
