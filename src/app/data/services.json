@@ -10,13 +10,13 @@
     "icon": "mobile"
   },
   {
-    "name": "Cybersecurity",
-    "description": "Schützen Sie Ihr Unternehmen vor Cyberangriffen mit unseren KI-gestützten Sicherheitsmaßnahmen und bewahren Sie Ihre Daten und Ihren Ruf.",
-    "icon": "security"
-  },
-  {
     "name": "Managed Services",
     "description": "Optimieren Sie Ihre Abläufe mit unseren maßgeschneiderten Managed IT Lösungen und konzentrieren Sie sich auf das Wachstum, während wir uns um die technischen Details kümmern.",
-    "icon": "managed"
+    "icon": "solutions"
+  },
+  {
+    "name": "Cybersecurity",
+    "description": "Schützen Sie Ihr Unternehmen vor Cyberangriffen mit unseren KI-gestützten Sicherheitsmaßnahmen und bewahren Sie Ihre Daten und Ihren Ruf.",
+    "icon": "cybersecurity"
   }
 ]

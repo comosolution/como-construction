@@ -9,35 +9,8 @@ export default function Footer() {
   const grid = "p-8 grid gap-12 md:gap-20 grid-cols-1 md:grid-cols-2";
 
   return (
-    <div className="bg-neutral-900 text-white rounded-2xl m-4 md:m-8">
+    <div className="bg-neutral-700/20 backdrop-blur-sm rounded-2xl m-4 md:m-8">
       <footer className={grid}>
-        <div>
-          <h3 className="font-bold mb-2">
-            Innovative Lösungen für Collaboration und Mobile Work
-          </h3>
-          <p className="text-sm">
-            Unser Fokus: Collaboration & Mobile Solutions! Lösungsentwicklung
-            für die digitale und mobile Zusammenarbeit sowie Management und
-            Absicherung Ihrer mobilen Infrastruktur. Wir beraten, entwickeln,
-            migrieren, realisieren und supporten – immer die passende Lösung für
-            Sie!
-          </p>
-          <div className="flex gap-8 mt-8">
-            <Image
-              src="/logo_white.svg"
-              alt="Logo"
-              width="120"
-              height="36"
-              onClick={() => {
-                document.querySelector("#top")?.scrollIntoView({
-                  behavior: "smooth",
-                });
-              }}
-              className="cursor-pointer"
-            />
-            <Image src="/fcn.svg" alt="Club Freund" width="120" height="36" />
-          </div>
-        </div>
         <div>
           <p>CoMo Solution GmbH</p>
           <p>Marktplatz 18</p>
@@ -58,6 +31,33 @@ export default function Footer() {
               </p>
             );
           })}
+        </div>
+        <div>
+          <h3 className="font-bold mb-2">
+            Innovative Lösungen für Collaboration und Mobile Work
+          </h3>
+          <p className="text-sm">
+            Unser Fokus: Collaboration & Mobile Solutions! Lösungsentwicklung
+            für die digitale und mobile Zusammenarbeit sowie Management und
+            Absicherung Ihrer mobilen Infrastruktur. Wir beraten, entwickeln,
+            migrieren, realisieren und supporten – immer die passende Lösung für
+            Sie!
+          </p>
+          <div className="flex gap-8 mt-8">
+            <Image
+              src="/logo.svg"
+              alt="Logo"
+              width="120"
+              height="36"
+              onClick={() => {
+                document.querySelector("#top")?.scrollIntoView({
+                  behavior: "smooth",
+                });
+              }}
+              className="cursor-pointer"
+            />
+            <Image src="/fcn.svg" alt="Club Freund" width="120" height="36" />
+          </div>
         </div>
       </footer>
       <footer className="bg-black rounded-b-2xl">

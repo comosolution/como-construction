@@ -1,0 +1,29 @@
+<svg width="1440" height="1024" viewBox="0 0 1440 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1638_366)">
+<ellipse cx="1402" cy="546.5" rx="188" ry="188.5" stroke="url(#paint0_radial_1638_366)"/>
+<path d="M243.999 195C243.999 270.25 181.499 345.5 93.9985 345.5C181.499 345.5 243.999 420.75 243.999 496L93.9985 496C18.9985 496 -56.0015 433.292 -56.0015 345.5C-56.0015 257.708 18.9985 195 93.9985 195L243.999 195Z" stroke="url(#paint1_radial_1638_366)"/>
+<path d="M990 428V73C1078.5 73 1167 146.958 1167 250.5C1167 146.958 1255.5 73 1344 73V428H990Z" stroke="url(#paint2_radial_1638_366)"/>
+<ellipse cx="437.999" cy="627.5" rx="214" ry="215.5" stroke="url(#paint3_radial_1638_366)"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial_1638_366" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1387.5 605) rotate(105.698) scale(238.391 258.506)">
+<stop offset="0.254797" stop-color="#B3193E"/>
+<stop offset="1" stop-color="#B3193E" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint1_radial_1638_366" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(115.499 312.5) rotate(68.6294) scale(234.633 233.853)">
+<stop stop-color="#B3193E"/>
+<stop offset="1" stop-color="#B3193E" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint2_radial_1638_366" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1232.5 102.5) rotate(54.7922) scale(282.719 165.646)">
+<stop stop-color="#FF6900"/>
+<stop offset="1" stop-color="#FF6900" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint3_radial_1638_366" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(351.999 577.5) rotate(118.088) scale(319.647 325.522)">
+<stop offset="0.297965" stop-color="#FF6900"/>
+<stop offset="1" stop-color="#FF6900" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="clip0_1638_366">
+<rect width="1440" height="1024" fill="white"/>
+</clipPath>
+</defs>
+</svg>

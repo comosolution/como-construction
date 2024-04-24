@@ -8,14 +8,14 @@ export default function Services() {
         return (
           <div
             key={service.name}
-            className="flex flex-col bg-white rounded-2xl p-8 shadow-xl"
+            className="flex flex-col bg-neutral-700/20 backdrop-blur-sm rounded-2xl p-8"
           >
             <Image
               src={`/icons/${service.icon}.svg`}
               alt={service.name}
-              width="36"
-              height="36"
-              className="mb-8 md:mb-12"
+              width="96"
+              height="48"
+              className="mb-8"
             />
             <h3 className="font-bold text-base lg:text-xl mb-2">
               {service.name}
