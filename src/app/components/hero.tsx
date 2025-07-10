@@ -1,5 +1,5 @@
-import Button from "./button";
 import Countdown from "react-countdown";
+import Button from "./button";
 
 export default function Hero() {
   return (
@@ -11,10 +11,10 @@ export default function Hero() {
         <span>Managed IT</span>
       </div>
       <h1 className="text-center text-5xl md:text-9xl font-black tracking-tight">
-        <Countdown date={new Date("May 8, 2024 12:00:00")} />
+        <Countdown date={new Date("July 30, 2025 12:00:00")} />
       </h1>
       <h2 className="text-center font-bold text-base md:text-xl opacity-65">
-        Teeeeeeest...
+        Hier entsteht etwas Neues
       </h2>
       <div className="flex flex-col md:flex-row items-center gap-2 mt-4">
         <Button
