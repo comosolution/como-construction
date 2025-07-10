@@ -14,7 +14,7 @@ export default function Hero() {
         <Countdown date={new Date("May 8, 2024 12:00:00")} />
       </h1>
       <h2 className="text-center font-bold text-base md:text-xl opacity-65">
-        Die Zukunft der CoMo beginnt bald...
+        Teeeeeeest...
       </h2>
       <div className="flex flex-col md:flex-row items-center gap-2 mt-4">
         <Button
